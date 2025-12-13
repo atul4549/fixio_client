@@ -15,9 +15,9 @@ export const Navigation = () => {
   const authUser = true
   const loading = false
   const location = 'Bikram'
-  const user = {
-    name: 'atul'
-  }
+  // const user = {
+  //   name: 'atul'
+  // }
   return (
     <header style={styles.header}>
         {/* // Header/Navigation */}
