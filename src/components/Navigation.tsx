@@ -2,8 +2,8 @@
 
 import { Link } from "react-router-dom";
 import { styles } from "./Nav";
-import { Search } from "./Search";
-import { StatusBtn } from "./StatusBtn";
+// import { Search } from "./Search";
+// import { StatusBtn } from "./StatusBtn";
 
 export const Navigation = () => {
   // return (
