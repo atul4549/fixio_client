@@ -1,7 +1,7 @@
 // import React from 'react'
 
 import { Link } from "react-router-dom";
-import { styles } from "./Navigation_";
+import { styles } from "./Nav";
 import { Search } from "./Search";
 import { StatusBtn } from "./StatusBtn";
 
