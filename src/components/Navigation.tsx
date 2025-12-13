@@ -106,11 +106,11 @@ export const Navigation = () => {
                 </button> */}
                   </div>
                 </div>
-                <Link to={"/profile"} style={styles.user_data}>
-                  {/* <User className="size-5" /> */}
+                {/* <Link to={"/profile"} style={styles.user_data}>
+                  <User className="size-5" />
                   <h6 style={styles.h6}>{user?.name || "User"}</h6>
                   <h5 style={styles.h5}>AH</h5>
-                </Link>
+                </Link> */}
 
                 {/* <button className="flex gap-2 items-center"
                  onClick={logout}
