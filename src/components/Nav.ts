@@ -59,12 +59,12 @@ export const styles = {
     // width: "20%",
     // border: "1px solid red"
   },
-  "@media (min-width: 640px)": {
-    userSection: {
+  // "@media (min-width: 640px)": {
+  //   userSection: {
       //   flexDirection: "row" as const,
       //   width: "auto",
-    },
-  },
+  //   },
+  // },
   locationContainer: {
     display: "flex",
     alignItems: "center",
@@ -78,11 +78,11 @@ export const styles = {
     border: "none",
     outline: "none",
   },
-  "@media (min-width: 640px)": {
-    locationContainer: {
-      width: "auto",
-    },
-  },
+  // "@media (min-width: 640px)": {
+  //   locationContainer: {
+  //     width: "auto",
+  //   },
+  // },
   locationText: {
     fontSize: "0.875rem",
     // color: "#374151",
@@ -151,11 +151,11 @@ export const styles = {
     // color: "#111827",
     // marginBottom: "16px",
   },
-  "@media (min-width: 768px)": {
-    welcomeTitle: {
-      //   fontSize: "3rem",
-    },
-  },
+  // "@media (min-width: 768px)": {
+  //   welcomeTitle: {
+  //     //   fontSize: "3rem",
+  //   },
+  // },
   highlight: {
     // color: "#2563eb",
   },
@@ -261,21 +261,21 @@ export const styles = {
     // gridTemplateColumns: "1fr",
     // gap: "24px",
   },
-  "@media (min-width: 640px)": {
-    servicesGrid: {
-      //   gridTemplateColumns: "repeat(2, 1fr)",
-    },
-  },
-  "@media (min-width: 1024px)": {
-    servicesGrid: {
-      //   gridTemplateColumns: "repeat(3, 1fr)",
-    },
-  },
-  "@media (min-width: 1280px)": {
-    servicesGrid: {
-      //   gridTemplateColumns: "repeat(4, 1fr)",
-    },
-  },
+  // "@media (min-width: 640px)": {
+  //   servicesGrid: {
+  //     //   gridTemplateColumns: "repeat(2, 1fr)",
+  //   },
+  // },
+  // "@media (min-width: 1024px)": {
+  //   servicesGrid: {
+  //     //   gridTemplateColumns: "repeat(3, 1fr)",
+  //   },
+  // },
+  // "@media (min-width: 1280px)": {
+  //   servicesGrid: {
+  //     //   gridTemplateColumns: "repeat(4, 1fr)",
+  //   },
+  // },
   emptyState: {
     // textAlign: "center" as const,
     // padding: "48px 0",
@@ -341,11 +341,11 @@ export const styles = {
     // justifyContent: "space-between",
     // alignItems: "center",
   },
-  "@media (min-width: 768px)": {
-    footerContent: {
-      //   flexDirection: "row" as const,
-    },
-  },
+  // "@media (min-width: 768px)": {
+  //   footerContent: {
+  //     //   flexDirection: "row" as const,
+  //   },
+  // },
   footerLogo: {
     // display: "flex",
     // alignItems: "center",
